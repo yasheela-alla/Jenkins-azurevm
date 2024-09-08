@@ -57,5 +57,10 @@ sudo apt-get install jenkins
 By default, Jenkins may not be accessible externally due to inbound traffic restrictions by AWS. Ensure that port 8080 is open in your inbound traffic rules to allow external access.
 ![image](https://github.com/user-attachments/assets/9b3939c6-7698-4fcb-af11-c98b6520031a)
 
+when you allow these setting, you will see
+![image](https://github.com/user-attachments/assets/185ba1d4-c437-4495-a5a1-5e44ccf49729)
+
+
 ---
+### Happy learning :)
 
